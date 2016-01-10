@@ -1,0 +1,52 @@
+Department has been added: Engineering 
+Department has been added: Style 
+Department has been added: GraphicDesign 
+Course added to college 
+Course added to college 
+Course added to college 
+Course added to college 
+Course added to college 
+Course added to college 
+Course added to college 
+Course added to college 
+Course added to college 
+Course added to college 
+Course added to department: 121 Engineering
+Student added to collage: Dan Cohen
+Student has been added to department: Engineering 
+Student has been added to the course: OO&Design Patterns
+ Dan
+Student points are updated: 4 
+Course is ended: 121 
+student not found! 
+student not found! 
+Student has been removed from collage: 065899652 
+Graduated students: Dan Cohen 
+Number of students started in: 1998 1
+Course not found! 
+Department has been added: Engineering 
+Department has been added: Style 
+Department has been added: GraphicDesign 
+Course added to college 
+Course added to college 
+Course added to college 
+Course added to college 
+Course added to college 
+Course added to college 
+Course added to college 
+Course added to college 
+Course added to college 
+Course added to college 
+Course added to department: 121 Engineering
+Student added to collage: Dan Cohen
+Student has been added to department: Engineering 
+Student has been added to the course: OO&Design Patterns
+ Dan
+Student points are updated: 4 
+Course is ended: 121 
+student not found! 
+student not found! 
+Student has been removed from collage: 065899652 
+Graduated students: Dan Cohen 
+Number of students started in: 1998 1
+Course not found! 

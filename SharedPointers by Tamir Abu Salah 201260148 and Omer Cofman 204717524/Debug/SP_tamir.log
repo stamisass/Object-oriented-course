@@ -1,0 +1,49 @@
+﻿Build started 19/06/2014 21:03:43.
+     1>Project "C:\Users\tamiir\Desktop\SharedPointers by Tamir Abu Salah 201260148 and Omer Cofman 204717524\SP_tamir.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Collage.cpp Course.cpp DataManager.cpp Department.cpp Logger.cpp main.cpp Student.cpp
+         Student.cpp
+         main.cpp
+         Logger.cpp
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\logger.cpp(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+         Department.cpp
+         DataManager.cpp
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\datamanager.cpp(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\datamanager.cpp(20): warning C4101: 'CrsArr' : unreferenced local variable
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\datamanager.cpp(133): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\datamanager.cpp(132): warning C4101: 'i' : unreferenced local variable
+         Course.cpp
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\course.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\course.cpp(57): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\course.cpp(79): warning C4018: '<=' : signed/unsigned mismatch
+         Collage.cpp
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\collage.cpp(38): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\collage.cpp(58): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\collage.cpp(66): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\collage.cpp(89): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\collage.cpp(97): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\collage.cpp(119): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\collage.cpp(124): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\collage.cpp(145): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\collage.cpp(167): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\collage.cpp(192): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\collage.cpp(191): warning C4101: 'j' : unreferenced local variable
+         Generating Code...
+     1>c:\users\tamiir\desktop\sharedpointers by tamir abu salah 201260148 and omer cofman 204717524\course.cpp(51): warning C4715: 'Course::GetStudentById' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\tamiir\Desktop\New folder\Debug\SP_tamir.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\tamiir\Desktop\New folder\Debug\SP_tamir.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\tamiir\Desktop\New folder\Debug\SP_tamir.lib" /MACHINE:X86 Debug\Collage.obj
+         Debug\Course.obj
+         Debug\DataManager.obj
+         Debug\Department.obj
+         Debug\Logger.obj
+         Debug\main.obj
+         Debug\Student.obj
+         SP_tamir.vcxproj -> C:\Users\tamiir\Desktop\New folder\Debug\SP_tamir.exe
+     1>Done Building Project "C:\Users\tamiir\Desktop\SharedPointers by Tamir Abu Salah 201260148 and Omer Cofman 204717524\SP_tamir.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.43

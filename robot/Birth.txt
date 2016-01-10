@@ -1,0 +1,10 @@
+#ID:1
+1
+#Leg (length:50,status:good,power:100,verion:1.0)
+50,good,100,1.0
+#Hand
+40,good,100,1.0
+#Brain
+2.0,35
+#Sensors
+eye-1,ear-1,eye-2

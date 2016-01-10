@@ -1,0 +1,17 @@
+#operation=1(go ahead), number of steps.
+1,4
+
+#operation=2(go back), number of steps.
+2,3
+
+#operation=3(go left), number of steps.
+3,10
+
+#operation=4(go right), number of steps.
+4,15
+
+#operation=5,x-10,y-20,
+5,40,50
+
+#operation=6
+6

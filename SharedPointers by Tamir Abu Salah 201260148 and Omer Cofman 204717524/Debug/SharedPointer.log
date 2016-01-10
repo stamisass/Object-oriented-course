@@ -1,0 +1,15 @@
+﻿Build started 19/06/2014 20:53:41.
+     1>Project "C:\Users\tamiir\Desktop\SharedPointers by Tamir Abu Salah 201260148 and Omer Cofman 204717524\SharedPointer.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\tamiir\Desktop\SharedPointers by Tamir Abu Salah 201260148 and Omer Cofman 204717524\Debug\SharedPointer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\tamiir\Desktop\SharedPointers by Tamir Abu Salah 201260148 and Omer Cofman 204717524\Debug\SharedPointer.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\tamiir\Desktop\SharedPointers by Tamir Abu Salah 201260148 and Omer Cofman 204717524\Debug\SharedPointer.lib" /MACHINE:X86 Debug\main.obj
+     1>main.obj : error LNK2019: unresolved external symbol "public: void __thiscall DataManager::init(char *)" (?init@DataManager@@QAEXPAD@Z) referenced in function _main
+     1>main.obj : error LNK2019: unresolved external symbol "public: void __thiscall DataManager::simulation(char *)" (?simulation@DataManager@@QAEXPAD@Z) referenced in function _main
+     1>C:\Users\tamiir\Desktop\SharedPointers by Tamir Abu Salah 201260148 and Omer Cofman 204717524\Debug\SharedPointer.exe : fatal error LNK1120: 2 unresolved externals
+     1>Done Building Project "C:\Users\tamiir\Desktop\SharedPointers by Tamir Abu Salah 201260148 and Omer Cofman 204717524\SharedPointer.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.25
